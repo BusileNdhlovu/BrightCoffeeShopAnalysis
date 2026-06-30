@@ -60,7 +60,7 @@ Welcome to the Coffee Shop Sales Analysis project! This initiative is designed t
  
  <h2 style="font-size:40px;"> 📈 Results & Insights </h2>
  
- This repository showcases comprehensive analysis aimed at enhancing BrightTV's subscription growth strategy. Findings are summarized in the presentation slides included in this repository.
+ This repository showcases comprehensive analysis aimed at enhancing Bright Coffee Shop growth. Findings are summarized in the presentation slides included in this repository.
  
  <h2 style="font-size:40px;"> 📨 Contact  </h2>
  
