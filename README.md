@@ -6,7 +6,7 @@
 Welcome to the Coffee Shop Sales Analysis project! This initiative is designed to assist the newly appointed CEO in making strategic decisions to increase revenue and enhance product performance using historical transactional data.
 
  <h2 style="font-size:40px;"> 📊 Introduction</h2>
- The dataset Bright Coffee Shop Sales provides daily transactional insights from the coffee shop. As a Junior Data Analyst, your mission is to extract meaningful insights that will help the CEO make informed business decisions.
+ The dataset Bright Coffee Shop Sales provides daily transactional insights from the coffee shop.My mission is to extract meaningful insights that will help the CEO make informed business decisions.
  
  <h2 style="font-size:40px;"> 📝 Goals & Objectives </h2>
  
